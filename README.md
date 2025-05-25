@@ -62,8 +62,8 @@ requirements.txt: Dependencias necesarias para el proyecto.
 - Python 3.10
 - Docker
 - VirtualBox
-- Flask (opcional si añades interfaz)
-- psutil, pandas, matplotlib
+- Flask
+- psutil, pandas, matplotlib...
 
 ---
 
