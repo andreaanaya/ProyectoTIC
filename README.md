@@ -18,7 +18,7 @@ El repositorio incluye:
 - Resultados y logs en `results/`  
 
 ---
-🛠️ Estructura del Proyecto
+🛠️ ## Estructura del Proyecto
 scripts/: Contiene el código fuente del juego y scripts auxiliares.
 
 notebooks/: Análisis y visualización de los resultados.
