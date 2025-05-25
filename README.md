@@ -30,7 +30,23 @@ Dockerfile: Configuración para el contenedor Docker.
 requirements.txt: Dependencias necesarias para el proyecto.
 ## 🧱 Estructura del Proyecto
 
-<pre> ProyectoTIC/ ├── README.md ├── scripts/ │ ├── hundir_la_flota.py │ ├── comparar_tiempos.py │ ├── docker_setup.sh │ └── vm_setup.sh ├── notebooks/ │ └── analisis_benchmark.ipynb ├── results/ │ ├── benchmark_vm.csv │ ├── benchmark_docker.csv │ ├── grafica_cpu.png │ ├── grafica_ram.png │ └── grafica_tiempo.png ├── Dockerfile └── requirements.txt </pre>
+<pre> ProyectoTIC/
+├── README.md
+├── scripts/
+│   ├── hundir_la_flota.py
+│   ├── comparar_tiempos.py
+│   ├── docker_setup.sh
+│   └── vm_setup.sh
+├── notebooks/
+│   └── analisis_benchmark.ipynb
+├── results/
+│   ├── benchmark_vm.csv
+│   ├── benchmark_docker.csv
+│   ├── grafica_cpu.png
+│   ├── grafica_ram.png
+│   └── grafica_tiempo.png
+├── Dockerfile
+└── requirements.txt</pre>
 
 ## Cómo usar
 
