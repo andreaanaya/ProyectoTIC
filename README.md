@@ -18,6 +18,16 @@ El repositorio incluye:
 - Resultados y logs en `results/`  
 
 ---
+🛠️ Estructura del Proyecto
+scripts/: Contiene el código fuente del juego y scripts auxiliares.
+
+notebooks/: Análisis y visualización de los resultados.
+
+results/: Resultados obtenidos de las pruebas de rendimiento.
+
+Dockerfile: Configuración para el contenedor Docker.
+
+requirements.txt: Dependencias necesarias para el proyecto.
 
 ## Cómo usar
 
