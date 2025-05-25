@@ -48,12 +48,29 @@ requirements.txt: Dependencias necesarias para el proyecto.
 ├── Dockerfile
 └── requirements.txt</pre>
 
-## Cómo usar
+## Para ponerlo en marcha...
 
 1. Ejecutar el juego en la VM con Ubuntu.  
 2. Ejecutar el juego dentro del contenedor Docker.  
 3. Comparar tiempos con el script `comparar_tiempos.py`.  
 
+<pre> 
+---
+
+## ⚙️ Tecnologías Usadas
+
+- Python 3.10
+- Docker
+- VirtualBox
+- Flask (opcional si añades interfaz)
+- psutil, pandas, matplotlib
+
+---
+
+## 📦 Instalación de Dependencias
+
+```bash
+pip install -r requirements.txt</pre>
 ---
 
 ¡Gracias por visitar el proyecto!
